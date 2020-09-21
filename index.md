@@ -1,9 +1,5 @@
-## Welcome to Security World
-
-Threat Modelling is a structured process through which IT pros can identify serious threats and vulnerability, quantify seriousness and prioritize techniques to mitigate attack & protect IT resources.
-
 ### Threat Modeling: Designing for Security
-
+Threat Modelling is a structured process through which IT pros can identify serious threats and vulnerability, quantify seriousness and prioritize techniques to mitigate attack & protect IT resources.
 
 
 # Threat model should must fulfill following questions:
